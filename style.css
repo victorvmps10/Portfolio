@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.body{
+    background-color: rgb(34 197 94);
+};
+
+p.texto {
+    font-size: 100px;
+};
